@@ -11,7 +11,7 @@ Greetings! Welcome to my project, Build a Boat Building tools. This is a test ve
 ## Overview
 
 <p align="center">
-  <img src="Pictures/Version 1.1.png" alt="1000x1000_image" width="750" style="border-radius: 10%;">
+  <img src="Pictures/Version 1.0.png" alt="1000x1000_image" width="750" style="border-radius: 10%;">
 </p>
 
 # Description and features
